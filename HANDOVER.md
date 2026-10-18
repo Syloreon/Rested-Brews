@@ -75,6 +75,10 @@
 
 ## 7. Next steps
 
-1. Install the package in a clean Gale profile and work through `CRITERIA.md`.
-2. Check the startup log for the live Rested values and the per-tier minutes.
-3. `git init` and the first commit, once the owner agrees.
+**Published 2026-10-17:**
+- Thunderstore: **Syloreon-RestedBrews 1.0.0**, Valheim community. Categories: AI Generated, Mods, Crafting, Deep North Update, Client-side, Server-side.
+- Source: https://github.com/Syloreon/Rested-Brews
+
+Remaining work:
+1. Work through the untested `CRITERIA.md` items when convenient.
+2. For a release, bump the version in `src/Plugin.cs`, `src/RestedBrews.csproj` and `thunderstore/manifest.json`. Then run `package.ps1` and upload to Thunderstore under the Syloreon team.
