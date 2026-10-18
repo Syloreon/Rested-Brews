@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# Thunderstore package output (zip is a build artifact; manifest.json + icon.png are tracked)
+dist/
+
+# Decompiled game sources used only as a local reference
+.decomp/
+
+# IDE
+.vs/
+.idea/
+*.user
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+secrets.json

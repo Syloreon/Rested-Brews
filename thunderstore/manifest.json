@@ -1,0 +1,10 @@
+{
+  "name": "RestedBrews",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Syloreon/Rested-Brews",
+  "description": "Brew biome potions at the Cauldron, ferment them, and drink to become Rested anywhere for as long as that biome's best comfort would give.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
